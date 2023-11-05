@@ -1,6 +1,8 @@
 👋 Hi, I’m in my final term in the software development program at Red River College. I am passionate about creating robust and meaningful applications, with a focus on CX/UX design.
 Interested in leveraging my expertise to drive innovation and create meaningful software solutions.
 
+<a href="www.linkedin.com/in/edwardhwseo">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 <h2>Languages & Frameworks</h2>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
