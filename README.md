@@ -1,5 +1,4 @@
-👋 Hi, I'm passionate about creating robust and meaningful applications, with a focus on CX/UX design.
-Interested in leveraging my expertise to drive innovation and create meaningful software solutions.
+👋 Hi, I'm passionate about creating meaningful applications, with a focus on CX/UX design.
 
 <a href="https://www.linkedin.com/in/edwardhwseo">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
