@@ -1,4 +1,4 @@
-👋 Hi i'm Edward. I'm a web developer who enjoys creating web applications with a focus on CX/UX design.
+👋 Hi, I'm Edward. I'm a web developer who enjoys creating web applications with a focus on CX/UX design.
 
 <a href="https://www.linkedin.com/in/edwardhwseo">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
